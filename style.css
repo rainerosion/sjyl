@@ -1,0 +1,185 @@
+body {
+	width:480px;
+	margin:0 auto;
+        padding-left:2px;
+        padding-right:2px;
+	text-decoration:none;
+}
+.menu{
+background-color:#66ccff;
+border:2px solid #8E8E8E; 
+border-radius:4px; 
+margin:1px;
+text-align:center; 
+padding:2px;
+/*
+font-size:20px;
+*/
+}
+.lyric {
+border-radius:3px;
+border:2px solid #8e8e8e;
+border-radius:2px;
+margin:1px; 
+padding:1px;
+}
+.list {
+border-radius:3px;
+border:2px solid #8e8e8e;
+border-radius:2px;
+margin:1px; 
+padding:1px;
+text-align:center;
+
+}
+
+.top{
+margin-top:5px;
+
+}
+hr{
+border-top:1px dotted #ff99cc;
+margin:0px;
+padding:1px 0px 1px 0px;
+}
+.autobr {
+word-wrap:break-word;word-break:break-all;
+}
+
+.input{
+border:2px dotted #99ccff;
+border-radius:5px;
+width:34%;
+height:21px;
+}
+.inp{
+border:2px dotted #99ccff;
+border-radius:5px;
+width:99%;
+height:21px;
+}
+input[type='submit'],input[type='reset']{
+background-color:#0099cc;
+border:2px solid #8e8e8e;
+width:48%;
+border-radius:3px;
+height:21px;
+margin:0px 0px 0px 1px;
+text-align:center;
+font-size:13px;
+padding-bottom:2px;
+}
+.error{
+color:#999966;
+border:2px solid #8E8E8E; 
+border-radius:4px; 
+margin:1px;
+text-align:center; 
+padding:2px;
+text-shadow: 1px 2px 3px #666666;
+
+
+}
+
+.shadow{
+text-shadow: 1px 2px 3px #666666;
+
+
+}
+.font{
+
+text-align:center;
+
+font-size:12px;
+margin:1px;
+}
+
+input[type='button']{       
+background-color:#0099cc;
+border:2px solid #8e8e8e;
+/*width:48%;*/
+border-radius:3px;
+height:21px;
+margin:0px 0px 0px 1px;
+text-align:center;
+font-size:13px;
+padding-bottom:2px;
+}
+.search{
+margin-top:4px;
+border-radius:5px;
+margin:1px;
+padding:2px;
+
+border:2px solid #8E8E8E;  
+background:#; 
+word-wrap:break-word;word-break:break-all;
+    
+background-color:#ffffff;
+color:#00008B;
+}
+.but{
+    width:16%;
+    height:48px;
+    border:1px solid #FF9933 ; 
+    border-radius: 0px 5px 5px 0px;
+    float:right;
+    background:#CCCCCC;
+    font-size:23px;
+    overflow:hidden;
+    line-height:50px;
+    text-align: center;
+}
+
+
+textarea {
+	border:2px dotted #99ccff;
+	border-radius:5px;
+}
+
+.num,title{
+background: #6fb7b7;
+border-radius:4px;
+color: #fff;
+width: 320px;
+margin:1px;
+}
+m{
+border:1px solid #FF9933 ; 
+color:#ff9966;
+border-radius: 0px 5px 5px 0px;
+float:right;
+
+	
+}
+/*
+.list {
+border-radius:3px;
+border:2px solid #8e8e8e;
+border-radius:2px;
+margin:1px; 
+padding:1px;
+text-align:center;
+
+}
+*/
+n{
+color:#ffffff;
+float:right;
+font-size:15px;
+
+	
+}
+.explan{
+border-radius:3px;
+border:2px solid #8e8e8e;
+border-radius:2px;
+margin:1px; 
+padding:1px;
+
+}
+.mar{
+   margin-top:8px;
+
+	
+}
