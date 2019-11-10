@@ -5,10 +5,17 @@
 * 本程序使用的是sqlite数据库 请确认你的服务器支持sqlite数据库
 * 推荐使用adminer工具管理sqlite数据库，选择sqlite3 输入words.sqlite即可管理
 * 如有其它任何问题请联系作者本人
+
+## 2019-11-10 18:53:20更新
+* 添加MYSQL版本的支持
+* 使用前请先修改配置MYSQL数据库信息
+* config.php文件中包含数据库配置信息
+* 将word.sql文件导入到mysql数据库中
+
 # 关于作者
 * 作者：雨落凋殇 （rainss）
-* 主页：[雨落凋殇(http://rainss.cn)](http://rainss.cn)
-* 邮箱：1782832653#qq.com (请将#换为@)
+* 博客：[雨落凋殇(http://rainss.cn)](http://rainss.cn)
+* 邮箱：rainerosion@qq.com
 如有任何问题请发送邮件到以上邮箱
 
 # 程序截图
