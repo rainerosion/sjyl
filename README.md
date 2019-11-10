@@ -13,6 +13,8 @@
 * 使用前请先修改配置MYSQL数据库信息
 * config.php文件中包含数据库配置信息
 * 将word.sql文件导入到mysql数据库中
+* data.sql是随机语录数据，用于测试可以不用导入
+* data.sql文件需要在word.sql文件之后执行
 
 # 关于作者
 
