@@ -16,7 +16,7 @@ date_default_timezone_set('PRC');
 $time=date("Y-m-d H:i:s");
 
 
-if(strlen($ly) > 300){
+if(strlen($words) > 300){
    echo "<div class='num'>语句超过字数限制100字！</div>";
         die;
       } 
